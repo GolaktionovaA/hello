@@ -1,2 +1,3 @@
 redme.txt
 привет
+Hello, git!
